@@ -1,0 +1,13 @@
+age: tuổi,
+anaemia: thiếu máu hay không ?
+creatinine_phosphokinase: Nồng độ enzyme CPK trong máu (mcg/L)
+diabetes:bệnh nhân mắc bệnh tiểu đường hay không? (boolean)
+ejection_fraction:Phần trăm máu rời khỏi tim sau mỗi lần co bóp (phần trăm)
+high_blood_pressure:bệnh nhân bị tăng huyết áp hay không? (boolean)
+platelets: Tiểu cầu trong máu (kiloplatelets/mL)
+serum_creatinine: Nồng độ creatinine huyết thanh trong máu (mg/dL)
+serum_sodium: Nồng độ natri huyết thanh trong máu (mEq/L)
+sex: giới tính
+smoking: có hút thuốc hay không?
+time: thời gian theo dõi
+DEATH_EVENT:bệnh nhân qua đời trong thời gian theo dõi
